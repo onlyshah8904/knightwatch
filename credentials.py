@@ -3,7 +3,7 @@ CHANNEL_ID = ""
 DB_CONFIG = {
     "host": "",
     "user": "root",
-    "password": "actowiz"
+    "password": ""
 }
 
 DB_NAME="knightwatch"
